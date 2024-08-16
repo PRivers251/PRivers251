@@ -1,14 +1,19 @@
 # Hi, I'm Patrick Rivers
 
-**Welcome to my GitHub Profile! I'm a dedicated IT professional with a passion for networking, cybersecurity, and software development.**
+**Welcome to my GitHub Profile! I'm a dedicated IT professional with a passion for networking and web development.**
 
 ## About Me
 
-- **Current Focus**: Transitioning into IT with a strong interest in Cybersecurity.
-- **Education**: Pursuing a Bachelor's Degree in IT.
+- **Current Focus**: Transitioning into IT with a strong interest in IT and Network Support.
+- **Education**: Pursuing a Bachelor's Degree in IT (Completion April 2025).
 - **Certifications**: CCNA, ITIL v4 Foundation.
-- **Skills**: Networking, Python, Java, HTML/CSS, JavaScript, Flask, Docker, Next.js.
-- **Goal**: To leverage my experience in IT and move towards a role in Cybersecurity.
+- **Skills**: Networking, Python, Java, HTML/CSS, Tailwind, JavaScript, Flask, Docker, Next.js.
+- **Goal**: To establish myself in a career that I am deeply passionate about, dive into and learn cool new technologies, solve fun and engaging problems, and meet some great people along the way.
+
+## Certifications
+
+- **CCNA Certification**
+- **ITIL v4 Foundation**
 
 ## Technologies & Tools
 
@@ -16,31 +21,32 @@ Here’s a quick overview of the technologies I’m proficient in:
 
 - **Networking**: Cisco, Ciena, Juniper, Adtran.
 - **Protocols**: TCP/IP, VLANs, DNS, DHCP, SNMP.
-- **Software Development**: Python, Java, Flask, Next.js, Docker.
-- **Tools**: Wireshark, SolarWinds, Git, EVE-NG.
+- **Software Development**: Python, Java, Flask, Next.js, Experimenting with Docker
+- **Tools**: Wireshark, SolarWinds, Git, EVE-NG, GNS3, VSCode.
 
-## Featured Projects
+## Networking Projects
+
+### [Troubleshooting EVE-NG on VMWare](https://github.com/PRivers251/Report-Troubleshooting-EVE-NG-VMware)
+A quick look at a few issues that bugged me for a few days while setting up a new EVE-NG server via VMware on Windows 11.
+
+## Coding Projects
 
 ### [Flask Budget Calculator](https://github.com/PRivers251/flask-budget-calculator)
-A simple yet powerful budget calculator built with Flask, featuring user authentication, expense tracking, and income management.
+A simple weekly budget calculator that I am currently working on built with Flask, featuring user authentication and weekly expense management.
 
-### [EVE-NG Network Lab](https://github.com/PRivers251/eve-ng-lab)
-A comprehensive network emulation lab integrating physical equipment with EVE-NG, demonstrating real-world networking scenarios.
+### [Animal Clinic Check in/out Application](https://github.com/PRivers251/animal-clinic-checkin-checkout)
+A simple Java applicaiton created as a project in my IT145 Fundamentals of Applicaiton Development class.
 
-### [Roofer Website](https://github.com/PRivers251/roofer-website)
-A custom-built website for a roofing company using Docker, Next.js, and Tailwind CSS, complete with a back-end content management system.
-
-## Achievements
-
-- **CCNA Certification**: February 2024.
-- **ITIL v4 Foundation**: June 2024.
-- **Owner-Operator of PDR Transportation LLC**: March 2013 - Present.
+### [Python Text Based Game](https://github.com/PRivers251/it140-main-project)
+A text based game created as a project in my IT140 Introduction to Scripting class.
 
 ## Connect with Me
 
 - **Email**: [PRivers251@gmail.com](mailto:PRivers251@gmail.com)
 - **LinkedIn**: [Patrick Rivers](https://www.linkedin.com/in/patrickrivers251)
 - **GitHub**: [PRivers251](https://github.com/PRivers251)
+- **X.com**: [privers251](https://x.com/privers251)
+- **Facebook** [patrick.d.rivers](https://www.facebook.com/patrick.d.rivers)
 
 
 <!--
