@@ -33,10 +33,10 @@ A quick look at a few issues that bugged me for a few days while setting up a ne
 ## Coding Projects
 
 ### [Flask Budget Calculator](https://github.com/PRivers251/flask-budget-calculator/blob/main/README.md)
-A simple weekly budget calculator that I am currently working on built with Flask, featuring user authentication and weekly expense management.
+Weekly budget calculator that I am currently working on built with Flask, featuring user authentication and weekly expense management.
 
 ### [RidgeProConstructionWebsite](https://github.com/PRivers251/RidgeProsConstruction/blob/main/README.md)
-A simple Java applicaiton created as a project in my IT145 Fundamentals of Applicaiton Development class.
+Website currently being developed for a local roofing and residential construction contractor.
 
 ### [Python Text Based Game](https://github.com/PRivers251/it140-main-project/blob/main/README.md)
 A text based game created as a project in my IT140 Introduction to Scripting class.
