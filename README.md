@@ -1,6 +1,6 @@
 # Hi, I'm Patrick Rivers
 
-**Welcome to my GitHub Profile! I'm a dedicated IT professional with a passion for networking and web development.**
+**Welcome to my GitHub Profile! I'm a dedicated IT professional with a passion for networking, user support, and web development.**
 
 ## About Me
 
