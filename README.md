@@ -4,16 +4,17 @@
 
 ## About Me
 
-- **Current Focus**: Transitioning into IT with a strong interest in IT and Network Support.
+- **Current Focus**: Learning and growing my skills and expertise in IT and Software Development.
 - **Education**: Pursuing a Bachelor's Degree in IT (Completion April 2025).
-- **Certifications**: CCNA, ITIL v4 Foundation.
-- **Skills**: Networking, Python, Java, HTML/CSS, Tailwind, JavaScript, Flask, Docker, Next.js.
+- **Certifications**: CCNA, ITIL v4 Foundation, ComptTIA A+.
+- **Skills**: Networking, Python, Java, HTML/CSS, Tailwind, JavaScript, Flask, Next.js.
 - **Goal**: To establish myself in a career that I am deeply passionate about, dive into and learn cool new technologies, solve fun and engaging problems, and meet some great people along the way.
 
 ## Certifications
 
 - **CCNA Certification**
 - **ITIL v4 Foundation**
+- **CompTIA A+**
 
 ## Technologies & Tools
 
@@ -31,13 +32,13 @@ A quick look at a few issues that bugged me for a few days while setting up a ne
 
 ## Coding Projects
 
-### [Flask Budget Calculator](https://github.com/PRivers251/flask-budget-calculator)
+### [Flask Budget Calculator](https://github.com/PRivers251/flask-budget-calculator/blob/main/README.md)
 A simple weekly budget calculator that I am currently working on built with Flask, featuring user authentication and weekly expense management.
 
-### [Animal Clinic Check in/out Application](https://github.com/PRivers251/animal-clinic-checkin-checkout)
+### [RidgeProConstructionWebsite](https://github.com/PRivers251/RidgeProsConstruction/blob/main/README.md)
 A simple Java applicaiton created as a project in my IT145 Fundamentals of Applicaiton Development class.
 
-### [Python Text Based Game](https://github.com/PRivers251/it140-main-project)
+### [Python Text Based Game](https://github.com/PRivers251/it140-main-project/blob/main/README.md)
 A text based game created as a project in my IT140 Introduction to Scripting class.
 
 ## Connect with Me
