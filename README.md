@@ -5,7 +5,7 @@
 ## About Me
 
 - **Current Focus**: Learning and growing my skills and expertise in IT and Software Development.
-- **Education**: Pursuing a Bachelor's Degree in IT (Completion April 2025).
+- **Education**: Pursuing a Bachelor's Degree in IT (Completion October 2025).
 - **Certifications**: CCNA, ITIL v4 Foundation, ComptTIA A+.
 - **Skills**: Networking, Python, Java, HTML/CSS, Tailwind, JavaScript, Flask, Next.js.
 - **Goal**: To establish myself in a career that I am deeply passionate about, dive into and learn cool new technologies, solve fun and engaging problems, and meet some great people along the way.
