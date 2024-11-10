@@ -35,7 +35,7 @@ A quick look at a few issues that bugged me for a few days while setting up a ne
 ### [Flask Budget Calculator](https://github.com/PRivers251/flask-budget-calculator/blob/main/README.md)
 Weekly budget calculator that I am currently working on built with Flask, featuring user authentication and weekly expense management.
 
-### [Storm Shield Builders LLC](https://github.com/PRivers251/RidgeProsConstruction/blob/main/README.md)
+### [Storm Shield Builders LLC](https://github.com/PRivers251/storm-shield-builders/blob/main/README.md)
 Website currently being developed for a local roofing and residential construction contractor.
 
 ### [Python Text Based Game](https://github.com/PRivers251/it140-main-project/blob/main/README.md)
