@@ -32,6 +32,9 @@ Here’s a quick overview of the technologies I’m proficient in:
 ### [Troubleshooting EVE-NG on VMWare](https://github.com/PRivers251/Report-Troubleshooting-EVE-NG-VMware)
 A quick look at a few issues that bugged me for a few days while setting up a new EVE-NG server via VMware on Windows 11.
 
+### [Configuring Mult-Tiered, Multi-Homed Enterprise Enviornment w/ BGP, OSPF, Network Sementation, DHCP, and more!](https://github.com/PRivers251/RoutingLab_BGP_OSPF_3-6-25)
+An advanced routing lab completed 3/2025. This lab completed utilizing network emulation software GNS3 and Cisco Images, shows the process I went through while designing and configuring a multi-tiered enterprise environment.
+
 ## Connect with Me
 
 - **Email**: [PRivers251@gmail.com](mailto:PRivers251@gmail.com)
