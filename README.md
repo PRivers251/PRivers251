@@ -1,6 +1,6 @@
 # Hi, I'm Patrick Rivers
 
-**Welcome to my GitHub Profile! I'm a dedicated professional with a focus on Network Engineering & Cyber Security.**
+**Welcome to my GitHub Profile! I'm a dedicated professional with a focus on Network Engineering & Cybersecurity.**
 
 ## About Me
 
