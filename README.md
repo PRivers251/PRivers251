@@ -1,5 +1,4 @@
 <div style='text-align: left'>
-<img style='width: 200px; border-radius: 50%;' src="https://media.licdn.com/dms/image/v2/D4E03AQEyaJMXAfrQMw/profile-displayphoto-crop_800_800/B4EZfIkVk_HgAI-/0/1751416660411?e=1756944000&v=beta&t=c2hIImcZhALyyAlR-vh8a31hR8v1djsFt1MFL4_E_4c">
 <h1>Hello, my name is Patrick!</h1>
 <p>Mobile, AL</p>
 <p>
