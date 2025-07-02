@@ -1,48 +1,89 @@
-# Hi, I'm Patrick Rivers
+<div align="center">
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQEyaJMXAfrQMw/profile-displayphoto-crop_800_800/B4EZfIkVk_HgAI-/0/1751416660411?e=1756944000&v=beta&t=c2hIImcZhALyyAlR-vh8a31hR8v1djsFt1MFL4_E_4c">
+<h1>Hello, my name is Patrick!</h1>
+<p>
+A dedicated Full-Stack Developer with a passion for building robust, scalable, and user-centric web and mobile applications.
+Leveraging 9 months of intensive freelance experience, I specialize in modern JavaScript frameworks, backend integration, and crafting intuitive user experiences.
+I'm actively seeking a full-time developer position where I can be an asset and and do great work with great people.
+</p>
+</div>
 
-**Welcome to my GitHub Profile!**
+Tech Stack & Expertise
+Frontend: React, Next.js, React Native, Tailwind CSS, Shadcn/UI, 
 
-## About Me
+Backend: Node.js, Supabase (Auth, Database), RESTful APIs, Django, FastAPI
 
-- **Current Focus**: Learning and growing my skills and expertise in the Network Engineering domian.
-- **Education**: Pursuing a Bachelor's Degree in IT (Completion April 2026).
-- **Certifications**: CCNA, CompTIA Security+, CompTIA Project+, ITIL v4 Foundation, ComptTIA A+.
-- **Skills**: Cisco Technologies, Foundational Cybersecurity, Python, Java, Javascript, NextJS.
-- **Goal**: To establish myself in a career that I am deeply passionate about, dive into and learn cool new technologies, solve fun and engaging problems, and meet some great people along the way.
+Databases: PostgreSQL, MySQL
 
-## Certifications
+Payments & CRM: Stripe API, Zoho CRM Integration, Hub Spot CRM Integrations
 
-- **CCNA Certification**
-- **CompTIA Security+**
-- **CompTIA Project+**
-- **ITIL v4 Foundation**
-- **CompTIA A+**
+Deployment & Tools: Vercel, Git, GitHub
 
-## Technologies & Tools
+Learning & Exploring: C#, ASP.NET
 
-Here’s a quick overview of the technologies I’m proficient in:
+Methodologies: Responsive Design, Mobile-First Development, Full-Stack Development
 
-- **Networking**: Cisco, Ciena, Juniper, Adtran.
-- **Protocols**: TCP/IP, VLANs, DNS, DHCP, SNMP, BGP, OSPF, HSRP, VRRP, STP.
-- **Software Development**: Python, Java, Flask, Next.js, Experimenting with Docker
-- **Tools**: Wireshark, SolarWinds, Git, EVE-NG, GNS3, VSCode.
+Featured Projects
+Here are some highlights from my recent freelance work, demonstrating my ability to deliver impactful solutions:
 
-## Networking Projects
+1. Storm Shield Builders Website (Full-Stack Web Application)
+Description: Developed and deployed a comprehensive, full-stack website for a commercial roofing company. This project was engineered with a strong emphasis on clean, responsive architecture, ensuring a seamless user experience across all devices, particularly on mobile.
 
-### [Troubleshooting EVE-NG on VMWare](https://github.com/PRivers251/Report-Troubleshooting-EVE-NG-VMware)
-A quick look at a few issues that bugged me for a few days while setting up a new EVE-NG server via VMware on Windows 11.
+Key Features: Integrated dynamic web forms for lead generation and established a robust connection with Zoho CRM to streamline client management and sales processes.
 
-### [Configuring Mult-Tiered, Multi-Homed Enterprise Enviornment w/ BGP, OSPF, Network Sementation, DHCP, and more!](https://github.com/PRivers251/RoutingLab_BGP_OSPF_3-6-25)
-An advanced routing lab completed 3/2025. This lab completed utilizing network emulation software GNS3 and Cisco Images, shows the process I went through while designing and configuring a multi-tiered enterprise environment.
+Impact: Significantly enhanced the client's online presence and operational efficiency by automating lead capture and CRM integration.
 
-## Connect with Me
+Technologies: Next.js, React, Tailwind CSS, Zoho CRM API, PostgreSQL (via Supabase or similar, if applicable for form data storage).
 
-- **Email**: [PRivers251@gmail.com](mailto:PRivers251@gmail.com)
-- **YouTube**: [YouTube.com/BitsofProgress](https://www.youtube.com/@bitsofprogress)
-- **LinkedIn**: [Patrick Rivers](https://www.linkedin.com/in/patrickrivers251)
-- **GitHub**: [PRivers251](https://github.com/PRivers251)
-- **X.com**: [privers251](https://x.com/privers251)
-- **Facebook** [patrick.d.rivers](https://www.facebook.com/patrick.d.rivers)
+Link to Project Repository <a href='https://github.com/PRivers251/storm-shield-builders'>HERE</a>
+
+Link to Live Demo <a href='https://stormshieldbuilders.com/'>HERE</a>
+
+2. ProAnglerAI (AI-Powered Fishing Application - Mobile)
+Description: Engineered a sophisticated AI-driven mobile application designed to provide anglers with highly tailored fishing predictions. The application aggregates and analyzes data from dozens of diverse sources, including real-time weather, tide charts, moon phases, seasonal patterns, bait types, and spawn cycles.
+
+Key Features: Presents complex data insights in an easily digestible text format. Features secure user authentication and management powered by a Supabase backend.
+
+Impact: Empowered users with data-driven insights, enhancing their fishing success by providing predictive intelligence.
+
+Technologies: React Native, Supabase (Authentication, Database), External APIs (Weather, Tide, etc.), AI/ML integration (implied for data analysis).
+
+Link to Project Repository <a href='https://github.com/PRivers251/proanglerai-client'>HERE</a>
+
+Link to Live Demo <a href='https://proanglerai.com'>HERE</a>
+
+3. MOWA Choctaw Youth Sports League (Full-Scale Web Platform)
+Description: Built a comprehensive web platform for a youth sports league, facilitating online registration and payment processing for multiple sports. This project highlights my ability to handle sensitive user data and financial transactions securely.
+
+Key Features: Seamless Stripe API integration for secure fee payments and a robust Supabase backend for all data management. Developed an advanced admin dashboard using Shadcn/UI and React Tables, enabling administrators to efficiently view, search, and filter registered kids by sport, payment status, and age. Implemented detailed player profile pages with full CRUD (Create, Read, Update, Delete) capabilities for administrators.
+
+Impact: Revolutionized the league's registration process, providing a streamlined and secure experience for parents and powerful administrative tools for league management.
+
+Technologies: Next.js, React, Supabase (Authentication, Database), Stripe API, Shadcn/UI, React Tables.
+
+Link to Project Repository <a href="https://github.com/PRivers251/mowa-youth-sports">HERE</a>
+
+Link to Live Demo <a href='https://mowa-youth-sports.vercel.app/'>HERE</a>
+
+4. Lawn Restoration Services (Modern Static Website)
+Description: Designed and developed a modern, static website for a local lawn care company. This project showcases my proficiency in creating visually appealing and highly performant web experiences.
+
+Key Features: Implemented modern responsive design principles to ensure optimal viewing and interaction across desktops, tablets, and mobile devices.
+
+Impact: Provided the client with a professional and accessible online presence, improving their digital footprint.
+
+Technologies: Next.js, React, Tailwind CSS.
+
+Link to Project Repository <a href='https://github.com/PRivers251/lawn-restoration-services'>HERE</a>
 
 
+🌐 Let's Connect!
+LinkedIn: https://www.linkedin.com/in/patrick-rivers-b826a2372
 
+Email: patrickrivers251@outlook.com
+
+<div align="center">
+<p>
+Looking forward to building something amazing together!
+</p>
+</div>
