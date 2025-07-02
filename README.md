@@ -80,9 +80,9 @@ Link to Project Repository <a href='https://github.com/PRivers251/lawn-restorati
 <hr/>
 
 <h3>Let's Connect!</h3>
-LinkedIn: https://www.linkedin.com/in/patrick-rivers-b826a2372
+LinkedIn: <a href='https://www.linkedin.com/in/patrickrivers251/'></a>
 
-Email: patrickrivers251@outlook.com
+Email: <a href='mailto:privers251@gmail.com'>PRivers251@gmail.com</a>
 <br/>
 Phone: 251-472-6693
 
