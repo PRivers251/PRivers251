@@ -4,7 +4,8 @@
 <p>
 A dedicated Full-Stack Developer with a passion for building robust, scalable, and user-centric web and mobile applications.
 Leveraging 9 months of intensive freelance experience, I specialize in modern JavaScript frameworks, backend integration, and crafting intuitive user experiences.
-I'm actively seeking a full-time developer position where I can be an asset and and do great work with great people.
+I'm actively seeking a full-time developer position where I can be an asset and and do great work with great people. Here you will find a collection of both my
+development and IT projects.
 </p>
 </div>
 <hr/>
